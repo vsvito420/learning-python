@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "pewpew.pewpew-light-theme",
+        "ms-python.python",
+        "github.copilot",
+        "ms-python.vscode-pylance",
+        "visualstudioexptteam.vscodeintellicode",
+        "formulahendry.code-runner"
+    ]
+}

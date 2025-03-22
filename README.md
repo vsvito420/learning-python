@@ -6,6 +6,10 @@ Diese Repository enthält eine umfassende Dokumentation zum Erlernen der Program
 
 [Hier klicken, um zu beginnen](/Projekte/Kapitel_0/Anfang_Lese_Mich.md)
 
+## Entwicklungsumgebung
+
+[VS Code Erweiterungen für Python-Unterricht](/.vscode/extensions.md)
+
 ## Über dieses Projekt
 
 Dieses Projekt dient als strukturierte Lernhilfe für Python-Anfänger. Es enthält:

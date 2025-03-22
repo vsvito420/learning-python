@@ -4,6 +4,8 @@
 
 Diese Dokumentation begleitet dich beim Erlernen der Programmiersprache Python basierend auf dem W3Schools Python-Tutorial. Hier findest du strukturierte Kapitel, Beispiele und Übungen, die dir helfen, Python Schritt für Schritt zu meistern.
 
+[Zurück zur Hauptseite](/README.md) | [VS Code Erweiterungen für Python-Unterricht](/.vscode/extensions.md)
+
 ## Inhaltsverzeichnis
 
 ### Kapitel 0: Einrichtung und erste Schritte
