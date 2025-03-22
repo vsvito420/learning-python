@@ -1,4 +1,4 @@
-# Variablen und Datentypen in Python
+# Variablen und Datentypen in Python [W3Schools Python Variables](https://www.w3schools.com/python/python_variables.asp) [W3Schools Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
 
 [Zurück zur Hauptseite](/Projekte/Kapitel_0/Anfang_Lese_Mich.md) | [Vorheriges Kapitel: Textausgabe](Textausgabe_InDerKonsole.md) | [Nächstes Kapitel: Operatoren](Operatoren.md)
 

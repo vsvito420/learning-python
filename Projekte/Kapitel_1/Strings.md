@@ -1,4 +1,4 @@
-# Strings in Python
+# Strings in Python [W3Schools Python Strings](https://www.w3schools.com/python/python_strings.asp)
 
 [Zurück zur Hauptseite](/Projekte/Kapitel_0/Anfang_Lese_Mich.md) | [Vorheriges Kapitel: Operatoren](Operatoren.md) | [Nächstes Kapitel: Bedingte Anweisungen](/Projekte/Kapitel_2/Bedingte_Anweisungen.md)
 

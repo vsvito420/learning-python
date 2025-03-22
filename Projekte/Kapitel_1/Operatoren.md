@@ -1,4 +1,4 @@
-# Operatoren in Python
+# Operatoren in Python [W3Schools Python Operators](https://www.w3schools.com/python/python_operators.asp)
 
 [Zurück zur Hauptseite](/Projekte/Kapitel_0/Anfang_Lese_Mich.md) | [Vorheriges Kapitel: Variablen und Datentypen](Variablen_und_Datentypen.md) | [Nächstes Kapitel: Strings](Strings.md)
 

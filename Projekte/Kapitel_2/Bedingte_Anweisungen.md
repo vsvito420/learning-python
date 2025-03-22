@@ -1,4 +1,4 @@
-# Bedingte Anweisungen in Python
+# Bedingte Anweisungen in Python [W3Schools Python If...Else](https://www.w3schools.com/python/python_conditions.asp)
 
 [Zurück zur Hauptseite](/Projekte/Kapitel_0/Anfang_Lese_Mich.md) | [Vorheriges Kapitel: Strings](/Projekte/Kapitel_1/Strings.md) | [Nächstes Kapitel: Schleifen](Schleifen.md)
 

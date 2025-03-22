@@ -8,22 +8,22 @@ Diese Dokumentation begleitet dich beim Erlernen der Programmiersprache Python b
 
 ## Inhaltsverzeichnis
 
-### Kapitel 0: Einrichtung und erste Schritte
+### Kapitel 0: Einrichtung und erste Schritte [W3Schools Python Get Started](https://www.w3schools.com/python/python_getstarted.asp)
 - [Erste Schritte mit Python auf Windows](Erste_Schritte_Win_PC.md)
 - [Erste Schritte mit Python auf Mac](Erste_Schritte_Mac.md)
 - [Erste Schritte mit Python auf Mobilgeräten mit Replit](Erste_Schritte_Mobile_Replit.md)
 
-### Kapitel 1: Grundlagen
+### Kapitel 1: Grundlagen [W3Schools Python Intro](https://www.w3schools.com/python/python_intro.asp)
 - [Textausgabe in der Konsole](/Projekte/Kapitel_1/Textausgabe_InDerKonsole.md)
 - [Variablen und Datentypen](/Projekte/Kapitel_1/Variablen_und_Datentypen.md)
 - [Operatoren](/Projekte/Kapitel_1/Operatoren.md)
 - [Strings](/Projekte/Kapitel_1/Strings.md)
 
-### Kapitel 2: Kontrollstrukturen
+### Kapitel 2: Kontrollstrukturen [W3Schools Python If...Else](https://www.w3schools.com/python/python_conditions.asp)
 - [Bedingte Anweisungen (if, else, elif)](/Projekte/Kapitel_2/Bedingte_Anweisungen.md)
 - [Schleifen (while, for)](/Projekte/Kapitel_2/Schleifen.md)
 
-### Kapitel 3: Datenstrukturen
+### Kapitel 3: Datenstrukturen [W3Schools Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
 - [Listen](/Projekte/Kapitel_3/Listen.md)
 - [Tupel](/Projekte/Kapitel_3/Tupel.md)
 - [Sets](/Projekte/Kapitel_3/Sets.md)
@@ -44,7 +44,7 @@ Diese Dokumentation begleitet dich beim Erlernen der Programmiersprache Python b
 - [Vererbung](/Projekte/Kapitel_6/Vererbung.md)
 - [Polymorphismus](/Projekte/Kapitel_6/Polymorphismus.md)
 
-### Kapitel 7: Dateiverarbeitung
+### Kapitel 7: Dateiverarbeitung [W3Schools Python File Handling](https://www.w3schools.com/python/python_file_handling.asp)
 - [Dateien lesen und schreiben](/Projekte/Kapitel_7/Dateien_lesen_schreiben.md)
 - [CSV-Dateien verarbeiten](/Projekte/Kapitel_7/CSV_Dateien.md)
 - [JSON-Dateien verarbeiten](/Projekte/Kapitel_7/JSON_Dateien.md)

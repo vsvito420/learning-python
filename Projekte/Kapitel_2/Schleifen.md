@@ -1,4 +1,4 @@
-# Schleifen in Python
+# Schleifen in Python [W3Schools Python While Loops](https://www.w3schools.com/python/python_while_loops.asp) [W3Schools Python For Loops](https://www.w3schools.com/python/python_for_loops.asp)
 
 [Zurück zur Hauptseite](/Projekte/Kapitel_0/Anfang_Lese_Mich.md) | [Vorheriges Kapitel: Bedingte Anweisungen](Bedingte_Anweisungen.md) | [Nächstes Kapitel: Listen](/Projekte/Kapitel_3/Listen.md)
 

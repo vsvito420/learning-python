@@ -1,4 +1,4 @@
-# Textausgabe in der Konsole
+# Textausgabe in der Konsole [W3Schools Python Syntax](https://www.w3schools.com/python/python_syntax.asp)
 
 [Zurück zur Hauptseite](/Projekte/Kapitel_0/Anfang_Lese_Mich.md) | [Vorheriges Kapitel: Erste Schritte mit Python](/Projekte/Kapitel_0/Erste_Schritte_Win_PC.md) | [Nächstes Kapitel: Variablen und Datentypen](Variablen_und_Datentypen.md)
 

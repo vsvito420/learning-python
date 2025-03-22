@@ -20,7 +20,7 @@ Um auf einem Mac mit Python zu arbeiten, folge diesen Schritten:
     - Suche nach "Python" und klicke auf **Install**.
 
 ## 3. W3Schools Python-Tutorial nutzen
-1. Besuche [W3Schools Python-Tutorial](https://www.w3schools.com/python/).
+1. Besuche [W3Schools Python-Tutorial](https://www.w3schools.com/python/default.asp).
 2. Lerne die Grundlagen von Python durch interaktive Beispiele.
 
 ## 4. Ein erstes Python-Skript erstellen
@@ -42,6 +42,6 @@ Um auf einem Mac mit Python zu arbeiten, folge diesen Schritten:
 
 ## 6. Weitere Ressourcen
 - [Python-Dokumentation](https://docs.python.org/3/)
-- [W3Schools Python](https://www.w3schools.com/python/)
+- [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)
 
 Viel Erfolg beim Lernen von Python!

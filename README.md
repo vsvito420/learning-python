@@ -4,7 +4,7 @@ Diese Repository enthält eine umfassende Dokumentation zum Erlernen der Program
 
 ## Starte deine Python-Lernreise
 
-[Hier klicken, um zu beginnen](/Projekte/Kapitel_0/Anfang_Lese_Mich.md)
+[Hier klicken, um zu beginnen](/Projekte/Kapitel_0/Anfang_Lese_Mich.md) oder [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)
 
 ## Entwicklungsumgebung
 
