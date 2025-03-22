@@ -1,6 +1,6 @@
 # Variablen und Datentypen in Python
 
-[Zurück zur Hauptseite](/Projekte/Kapitel_0/Anfang_Lese_Mich.md) | [Vorheriges Kapitel: Textausgabe](/Projekte/1-Textausgabe_InDerKonsole.py) | [Nächstes Kapitel: Operatoren](Operatoren.md)
+[Zurück zur Hauptseite](/Projekte/Kapitel_0/Anfang_Lese_Mich.md) | [Vorheriges Kapitel: Textausgabe](Textausgabe_InDerKonsole.md) | [Nächstes Kapitel: Operatoren](Operatoren.md)
 
 ---
 

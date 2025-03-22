@@ -1,6 +1,6 @@
 # Erste Schritte mit Python auf Windows
 
-[Zurück zur Hauptseite](/Projekte/Kapitel_0/Anfang_Lese_Mich.md) | [Nächstes Kapitel: Textausgabe in der Konsole](/Projekte/1-Textausgabe_InDerKonsole.py)
+[Zurück zur Hauptseite](/Projekte/Kapitel_0/Anfang_Lese_Mich.md) | [Nächstes Kapitel: Textausgabe in der Konsole](/Projekte/Kapitel_1/Textausgabe_InDerKonsole.md)
 
 ---
 

@@ -8,9 +8,11 @@ Diese Dokumentation begleitet dich beim Erlernen der Programmiersprache Python b
 
 ### Kapitel 0: Einrichtung und erste Schritte
 - [Erste Schritte mit Python auf Windows](Erste_Schritte_Win_PC.md)
+- [Erste Schritte mit Python auf Mac](Erste_Schritte_Mac.md)
+- [Erste Schritte mit Python auf Mobilgeräten mit Replit](Erste_Schritte_Mobile_Replit.md)
 
 ### Kapitel 1: Grundlagen
-- [Textausgabe in der Konsole](/Projekte/1-Textausgabe_InDerKonsole.py)
+- [Textausgabe in der Konsole](/Projekte/Kapitel_1/Textausgabe_InDerKonsole.md)
 - [Variablen und Datentypen](/Projekte/Kapitel_1/Variablen_und_Datentypen.md)
 - [Operatoren](/Projekte/Kapitel_1/Operatoren.md)
 - [Strings](/Projekte/Kapitel_1/Strings.md)
