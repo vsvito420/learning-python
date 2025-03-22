@@ -1,5 +1,9 @@
 # Variablen und Datentypen in Python
 
+[Zurück zur Hauptseite](/Projekte/Kapitel_0/Anfang_Lese_Mich.md) | [Vorheriges Kapitel: Textausgabe](/Projekte/1-Textausgabe_InDerKonsole.py) | [Nächstes Kapitel: Operatoren](Operatoren.md)
+
+---
+
 In diesem Kapitel lernst du, wie du Variablen in Python erstellst und verwendest, sowie die grundlegenden Datentypen kennenlernst.
 
 ## Was sind Variablen?

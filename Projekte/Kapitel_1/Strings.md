@@ -1,5 +1,9 @@
 # Strings in Python
 
+[Zurück zur Hauptseite](/Projekte/Kapitel_0/Anfang_Lese_Mich.md) | [Vorheriges Kapitel: Operatoren](Operatoren.md) | [Nächstes Kapitel: Bedingte Anweisungen](/Projekte/Kapitel_2/Bedingte_Anweisungen.md)
+
+---
+
 In diesem Kapitel lernst du, wie du mit Strings (Zeichenketten) in Python arbeiten kannst. Strings sind eine der grundlegendsten Datentypen in Python und werden für die Verarbeitung von Text verwendet.
 
 ## Was sind Strings?

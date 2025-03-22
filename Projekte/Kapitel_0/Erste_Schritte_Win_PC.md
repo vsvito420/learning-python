@@ -1,5 +1,9 @@
 # Erste Schritte mit Python auf Windows
 
+[Zurück zur Hauptseite](/Projekte/Kapitel_0/Anfang_Lese_Mich.md) | [Nächstes Kapitel: Textausgabe in der Konsole](/Projekte/1-Textausgabe_InDerKonsole.py)
+
+---
+
 Um auf einem Windows-PC mit Python zu arbeiten, folge diesen Schritten:
 
 ## 1. Python installieren
