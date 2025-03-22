@@ -4,7 +4,7 @@
 
 ---
 
-Um auf einem Smartphone oder Tablet mit Python zu arbeiten, ist [Replit](https://replit.com) eine hervorragende Option. Replit ist eine webbasierte Entwicklungsumgebung, die auf jedem Gerät mit einem Browser funktioniert.
+Um auf einem Smartphone oder Tablet (oder sogar im Webbrowser am PC) mit Python zu arbeiten, ist [Replit](https://replit.com) eine hervorragende Option. Replit ist eine webbasierte Entwicklungsumgebung, die auf jedem Gerät mit einem Browser funktioniert.
 
 ## 1. Replit-Konto erstellen
 1. Öffne den Browser auf deinem Mobilgerät und besuche [replit.com](https://replit.com).
