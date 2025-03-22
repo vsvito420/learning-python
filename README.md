@@ -10,6 +10,8 @@ Diese Repository enthält eine umfassende Dokumentation zum Erlernen der Program
 
 [VS Code Erweiterungen für Python-Unterricht](/.vscode/extensions.md)
 
+![A modern and sleek GitHub banner for a Python course brand. The design includes a stylized Python snake in blue and green tones, with clean, tech-insp](./Projekte/z_Projekt_Daten/img/DALL·E%202025-03-22%2017.54.23.webp)
+
 ## Über dieses Projekt
 
 Dieses Projekt dient als strukturierte Lernhilfe für Python-Anfänger. Es enthält:
