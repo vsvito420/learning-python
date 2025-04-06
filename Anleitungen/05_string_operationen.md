@@ -2,12 +2,33 @@
 
 ## Inhaltsverzeichnis
 - [Grundlagen von Strings](#grundlagen-von-strings)
+  - [String-Definition](#string-definition)
+  - [Eigenschaften von Strings](#eigenschaften-von-strings)
+  - [Grundlegende Operationen](#grundlegende-operationen)
 - [String-Methoden](#string-methoden)
+  - [Groß- und Kleinschreibung](#groß--und-kleinschreibung)
+  - [Leerzeichen entfernen](#leerzeichen-entfernen)
+  - [Suchen und Ersetzen](#suchen-und-ersetzen)
+  - [Eigenschaften überprüfen](#eigenschaften-überprüfen)
 - [String-Formatierung](#string-formatierung)
+  - [Alte Formatierungsmethoden](#alte-formatierungsmethoden)
+  - [f-Strings](#f-strings)
+  - [Formatierungsoptionen](#formatierungsoptionen)
 - [String-Slicing und Indexierung](#string-slicing-und-indexierung)
+  - [Einzelne Zeichen zugreifen](#einzelne-zeichen-zugreifen)
+  - [Teilstrings extrahieren](#teilstrings-extrahieren)
+  - [Fortgeschrittenes Slicing](#fortgeschrittenes-slicing)
 - [Praktische Anwendungen](#praktische-anwendungen)
+  - [Benutzereingaben verarbeiten](#benutzereingaben-verarbeiten)
+  - [Textvalidierung](#textvalidierung)
+  - [Datenformatierung](#datenformatierung)
 - [Übungsaufgaben](#übungsaufgaben)
+  - [Einfache Übung: Namenformatierer](#einfache-übung-namenformatierer)
+  - [Mittelschwere Übung: Buchstabenzähler](#mittelschwere-übung-buchstabenzähler)
+  - [Herausforderung: Palindrom-Checker](#herausforderung-palindrom-checker)
 - [Zusammenfassung](#zusammenfassung)
+  - [Wichtigste Konzepte](#wichtigste-konzepte)
+  - [Weiterführende Themen](#weiterführende-themen)
 
 ---
 

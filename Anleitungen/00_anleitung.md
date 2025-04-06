@@ -2,10 +2,22 @@
 
 ## Inhaltsverzeichnis
 - [Abschnitt 1](#abschnitt-1)
+  - [Wichtiger Punkt 1](#wichtiger-punkt-1)
+  - [Wichtiger Punkt 2](#wichtiger-punkt-2)
+  - [Wichtiger Punkt 3](#wichtiger-punkt-3)
+  - [Codebeispiele](#codebeispiele)
 - [Abschnitt 2](#abschnitt-2)
+  - [Schrittweise Anleitung](#schrittweise-anleitung)
+  - [Codebeispiele](#codebeispiele-1)
 - [Abschnitt 3](#abschnitt-3)
+  - [Praktische Beispiele](#praktische-beispiele)
 - [Abschnitt 4](#abschnitt-4)
+  - [Häufige Fehler](#häufige-fehler)
+  - [Tipps und Tricks](#tipps-und-tricks)
 - [Übungsaufgaben](#übungsaufgaben)
+  - [Einfache Übung](#einfache-übung)
+  - [Mittelschwere Übung](#mittelschwere-übung)
+  - [Herausforderung](#herausforderung)
 - [Zusammenfassung](#zusammenfassung)
 
 ---

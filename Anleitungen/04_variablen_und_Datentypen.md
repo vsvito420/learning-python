@@ -2,12 +2,31 @@
 
 ## Inhaltsverzeichnis
 - [Was sind Variablen?](#was-sind-variablen)
+  - [Variablen als Behälter](#variablen-als-behälter)
+  - [Speicherung im Arbeitsspeicher](#speicherung-im-arbeitsspeicher)
 - [Wie definiere ich eine Variable?](#wie-definiere-ich-eine-variable)
+  - [Syntax der Variablendefinition](#syntax-der-variablendefinition)
+  - [Namenskonventionen](#namenskonventionen)
+  - [Ausgabe von Variablen](#ausgabe-von-variablen)
 - [Wie kopiere ich eine Variable?](#wie-kopiere-ich-eine-variable)
+  - [Wertzuweisung zwischen Variablen](#wertzuweisung-zwischen-variablen)
+  - [Referenzen vs. Kopien](#referenzen-vs-kopien)
 - [Variablenzuweisung mit Zahlen](#variablenzuweisung-mit-zahlen)
+  - [Grundrechenarten](#grundrechenarten)
+  - [Kurzschreibweisen](#kurzschreibweisen)
 - [Datentypen in Python](#datentypen-in-python)
+  - [Zahlentypen (int, float)](#zahlentypen-int-float)
+  - [Texttypen (str)](#texttypen-str)
+  - [Wahrheitswerte (bool)](#wahrheitswerte-bool)
+  - [Sammlungstypen (list, tuple, dict)](#sammlungstypen-list-tuple-dict)
+  - [Typbestimmung](#typbestimmung)
 - [Umwandlung von Datentypen](#umwandlung-von-datentypen)
+  - [Typkonvertierung](#typkonvertierung)
+  - [Häufige Konvertierungen](#häufige-konvertierungen)
 - [Arbeiten mit Strings](#arbeiten-mit-strings)
+  - [String-Erstellung](#string-erstellung)
+  - [Konkatenation](#konkatenation)
+  - [String-Operationen](#string-operationen)
 
 ## Was sind Variablen?
 

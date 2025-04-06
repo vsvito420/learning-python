@@ -2,12 +2,27 @@
 
 ## Inhaltsverzeichnis
 - [Eindeutigkeit](#eindeutigkeit)
+  - [Definition](#definition)
+  - [Beispiele](#beispiele)
 - [Finitheit](#finitheit)
+  - [Begrenzte Schritte](#begrenzte-schritte)
+  - [Endliche Beschreibung](#endliche-beschreibung)
 - [Terminierung](#terminierung)
+  - [Endliche Laufzeit](#endliche-laufzeit)
+  - [Ergebnislieferung](#ergebnislieferung)
 - [Determinismus](#determinismus)
+  - [Vorhersehbarkeit](#vorhersehbarkeit)
+  - [Ausnahmen](#ausnahmen)
 - [Determiniertheit](#determiniertheit)
+  - [Festgelegte Schritte](#festgelegte-schritte)
+  - [Klarer Ablauf](#klarer-ablauf)
 - [Ausführbarkeit](#ausführbarkeit)
+  - [Praktische Umsetzbarkeit](#praktische-umsetzbarkeit)
+  - [Ressourcenbedarf](#ressourcenbedarf)
 - [Beispiele für Algorithmen](#beispiele-für-algorithmen)
+  - [Summe berechnen](#summe-berechnen)
+  - [Größte Zahl finden](#größte-zahl-finden)
+  - [Sortieralgorithmen](#sortieralgorithmen)
 
 ---
 

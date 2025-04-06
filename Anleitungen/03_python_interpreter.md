@@ -2,11 +2,28 @@
 
 ## Inhaltsverzeichnis
 - [Was ist der Python Interpreter?](#was-ist-der-python-interpreter)
+  - [REPL-Prinzip](#repl-prinzip)
+  - [Interaktive Umgebung](#interaktive-umgebung)
 - [Starten des Interpreters](#starten-des-interpreters)
+  - [Unter Windows](#unter-windows)
+  - [Unter macOS/Linux](#unter-macoslinux)
+  - [Python-Prompt](#python-prompt)
 - [Grundlegende Verwendung](#grundlegende-verwendung)
+  - [Einfache Ausdrücke](#einfache-ausdrücke)
+  - [Variablen definieren](#variablen-definieren)
+  - [Mehrzeilige Eingaben](#mehrzeilige-eingaben)
 - [Nützliche Befehle](#nützliche-befehle)
+  - [Hilfe anzeigen](#hilfe-anzeigen)
+  - [Verfügbare Namen auflisten](#verfügbare-namen-auflisten)
+  - [Interpreter beenden](#interpreter-beenden)
 - [Tipps](#tipps)
+  - [Befehlshistorie](#befehlshistorie)
+  - [Auto-Vervollständigung](#auto-vervollständigung)
+  - [Letztes Ergebnis verwenden](#letztes-ergebnis-verwenden)
 - [Vorteile des Interpreters](#vorteile-des-interpreters)
+  - [Schnelles Testen](#schnelles-testen)
+  - [Interaktives Lernen](#interaktives-lernen)
+  - [Debugging](#debugging)
 
 ---
 

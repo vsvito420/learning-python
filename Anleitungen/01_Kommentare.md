@@ -2,9 +2,17 @@
 
 ## Inhaltsverzeichnis
 - [Einzeilige Kommentare](#einzeilige-kommentare)
+  - [Syntax](#syntax)
+  - [Verwendung](#verwendung)
 - [Mehrzeilige Kommentare](#mehrzeilige-kommentare)
+  - [Syntax mit dreifachen Anführungszeichen](#syntax-mit-dreifachen-anführungszeichen)
+  - [Verwendung als Docstrings](#verwendung-als-docstrings)
 - [Best Practices](#best-practices)
+  - [Wann Kommentare verwenden](#wann-kommentare-verwenden)
+  - [Wie gute Kommentare schreiben](#wie-gute-kommentare-schreiben)
 - [Beispiele](#beispiele)
+  - [Gute Kommentare](#gute-kommentare)
+  - [Schlechte Kommentare](#schlechte-kommentare)
 
 ---
 
