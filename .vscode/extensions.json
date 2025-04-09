@@ -5,6 +5,7 @@
         "github.copilot",
         "ms-python.vscode-pylance",
         "visualstudioexptteam.vscodeintellicode",
-        "formulahendry.code-runner"
+        "formulahendry.code-runner",
+        "ms-vsliveshare.vsliveshare"
     ]
 }
