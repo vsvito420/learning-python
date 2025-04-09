@@ -5,13 +5,29 @@ on:
     branches:
       - readthedocs
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Debug GitHub Actions permissions
+        run: |
+          echo "GitHub Actions permissions:"
+          echo "GITHUB_TOKEN: ${{ github.token }}"
+          
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          
+      - name: Debug git configuration
+        run: |
+          git config --list
+          git remote -v
       - name: Set up Python 3.13
         uses: actions/setup-python@v5
         with:
